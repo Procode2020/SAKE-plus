@@ -1,4 +1,4 @@
-(*-SAKE+ channel-**)
+(*-SAKE+ channel-*)
 free c: channel.
 (*-SAKE+ types-*)
 type key.
